@@ -18,7 +18,7 @@ the following job titles were assessed: AI Developer, Analytics Engineer,
 Business Intelligence Analyst, Business Intelligence Developer, Data Analyst,
 Data Architect, Data Engineer, Data Scientist, Machine Learning Engineer.
 
-<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/2965_RC01/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"Data Analyst","geo":"","time":"2004-01-01 2022-05-31"},{"keyword":"Data Scientist","geo":"","time":"2004-01-01 2022-05-31"},{"keyword":"Data Engineer","geo":"","time":"2004-01-01 2022-05-31"},{"keyword":"Data Architect","geo":"","time":"2004-01-01 2022-05-31"},{"keyword":"Machine Learning Engineer","geo":"","time":"2004-01-01 2022-05-31"}],"category":0,"property":""}, {"exploreQuery":"date=all&q=Data%20Analyst,Data%20Scientist,Data%20Engineer,Data%20Architect,Machine%20Learning%20Engineer","guestPath":"https://trends.google.com:443/trends/embed/"}); </script>
+![Google Trends Results](./img/google-trends-results.png)
 
 The tool only allows for up to five search terms to be displayed concurrently, the
 graph above shows the results for the five most popular terms.
