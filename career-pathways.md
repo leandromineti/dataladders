@@ -18,7 +18,9 @@ the following job titles were assessed: AI Developer, Analytics Engineer,
 Business Intelligence Analyst, Business Intelligence Developer, Data Analyst,
 Data Architect, Data Engineer, Data Scientist, Machine Learning Engineer.
 
-<div style="text-align:center"><img width="70%" src="./img/google-trends-results.png" /></div>
+<p align="center">
+    <img width="70%" src="./img/google-trends-results.png"/>
+</p>
 <p align = "center">
 Figure 1 - Job title popularity data from Google Trends.
 </p>
